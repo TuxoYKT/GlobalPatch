@@ -81,7 +81,7 @@ RegionName:
   RegionName113: Кварис
   RegionName114: Стиа
 RegionMag:
-  RMag_Update: [Очков до продления]
+  RMag_Update: '[Очков до продления]'
   RMag_ControlGuide: 'Принять: <%Decide>     Отменить: <%Cancel>     Перемещение активного элемента: <%NextWidget>     Множественный выбор: <%MultiSelect>     Переключение рабочего окна: <%ChangeCtrlWindowForward>'
 Worldmap:
   Personal_Guide_Window_Main_Memo: Заметка (мин. $(0) символов)
