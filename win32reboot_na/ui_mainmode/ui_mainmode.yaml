@@ -1,0 +1,95 @@
+MainMenu:
+  MainMenu_Quest_MissionPass: <pict ba_missionpass><pict 4space>Mission Pass
+  Popup_PerformEmotes: <pict ba_la><pict 4space>Выполнить эмоций
+  Popup_Option: '<pict ba_option><pict 4space>Параметры '
+  Popup_CampaignItem: '<pict ba_get><pict 4space>Получение предметов кампаний '
+  Popup_ControlSetting: '<pict ba_conf><pict 4space>Управление '
+  MainMenu_Equip_FashionCat: '<pict ba_corde><pict 4space>Каталог стиля'
+FriendList:
+  FriendList_Tree_Online: В сети ($(0))
+  FriendList_Tree_Offline: Вне сети ($(0))
+  FriendList_Tree_BlackList: Чёрный список ($(0))
+  FriendGroupSetToastMessage: $(0) назначен в группу $(1).
+  FriendGroupClearToastMessage: $(0) убран из группы.
+  FriendGroupSubPopupValue1: Назначить в группу
+  FriendGroupSubPopupValue2: Переместить в начало группы
+  FriendList_Sub_PopUp_Group: $(1) $(0)
+  FriendList_Sub_PopUp_Group_Non: Убрать из группы
+CharaMenu:
+  CharaMenu_Friend04: Не сообщать о входе
+  CharaMenu_Chara01: Отправить благодарность
+  CharaMenu_Chara03: Информация о стиле
+  CharaMenu_Cspacelist: Поиск Пространства для Творчества
+PartyMenu:
+  LeaderMenuLabel04: Покинуть квест
+  PartyConfigLabel22: <pict party_request>Открытая группа
+TargetInfo:
+  TargetInfo_WeakPoint: 'Уязвимость:'
+  TargetInfo_Resist: 'Сопротивление:'
+PlayerDeadMenu:
+  Retry: Повторить квест
+  RetryMessage: 'Желаете повторить попытку?<br><red>Примечание: После принятия вы будете перенесены на челнок.<c>'
+  RetryMessage2: 'Желаете повторить квест?<br><red>Примечание: Начав повтор, вы утратите текущий прогресс.<c>'
+  BuckToField: Вернуться
+  BuckToField_GetOutParty: Покинуть группу и вернуться в поле
+  BuckToField_GetOutMyself: Вернуться в одиночку
+  BuckToField_CheckMessage: Покинуть?<br><br><yellow>“Члены группы”<c> также<br>вернутся в поле.
+  BuckToField_CheckMessage_GetOutMyself: Хотите вернуться домой?<br><br>Вы вернётесь в поле<br><yellow>“в одиночку”<c>, но останетесь в группе.
+  ContinueMessage2: 'Осталось до воскрешения: $(0) секунд'
+PlayerStatus:
+  Title: Основная информация
+  StatusLabePower: Боевая мощь
+  StatusLabelN-Meseta: <pict reb_meseta>N-месета
+  StatusLabelFun: FUN
+  StatusLabelAc: ARKS Cash (AC)
+  StatusLabelTicket: Срок действия Premium
+  StatusLabeMainClass: Класс
+  StatusLabelSubClass: Подкласс  
+  StatusLabelSg: Star Gems (SG)
+  GenesisPoint_QuestRewardLimit_1: Из квестов (Еженед.)
+GoodJob:
+  SendTitle: Отправить благодарность
+  Message_reb: Отправьте благодарность.<br><br>Вы также добавить комментарий вместе с благодарностью.<br>(Можно просмотреть отправленные комментарии<br>через историю сообщений.)
+  ReceiveTitle: Благодарность отправлена
+  ReceiveMessage: Ваша благодарность отправлена!
+History:
+  GoodJob: Благодарности с комментариями
+  GoodJobWithoutComment: Благодарности без комментарий
+  Party: Игроки из предыдущих групп
+  MultiParty: Игроки из остальных групп
+  Nice: <pict like_icon>Нравится!
+  Cute: <pict cute_icon>Мило!
+  Cool: <pict cool_icon>Круто!
+  Interesting: <pict funny_icon>Интересно!
+Visiphon:
+  CampaignTopTitle: Предметы кампании
+  CampaignTopMenu1: 'Получить предмет(ы): Аккаунт'
+  CampaignTopMenu2: 'Получить предмет(ы): Персонаж'
+PartyMaker:
+  TitleText7: '[Ранг. $(0)]'
+Profile:
+  Reb_mess24: 'Принять: <%Decide>     Отменить: <%Cancel>     Перемещение активного элемента: <%NextWidget>     Список экипированных снаряжений: <%Function>     Режим редактирования: <%ChangeCtrlWindowForward>'
+BlockhelpMessage:
+  Block_help_ClassicBlock: Переход на блок PSO2.
+  Block_help_Beginner: 'Блок для начинающих.<br>Ветераны могут оказать помощь!<br>Примечание: Подбор ограничен блоками для начинающих.'
+  Block_help_Normal: 'Блок для желающих отправиться в приключения<br>в регионе $(0).<br>Примечание: Подбор ограничен блоками региона.'
+  Block_help_Stream: 'Блок предназначен для желающих транслировать<br>и записывать видео в регионе $(0).<br>Примечание: Подбор ограничен блоков для фото.'
+  Block_help_Chat: 'Блок предназначен для желающих пообщаться<br>в регионе $(0).<br>Примечание: Подбор ограничен блоками для общения.'
+RegionName:
+  RegionName111: Эарио
+  RegionName112: Ритем
+  RegionName113: Кварис
+  RegionName114: Стиа
+RegionMag:
+  RMag_Update: [Очков до продления]
+  RMag_ControlGuide: 'Принять: <%Decide>     Отменить: <%Cancel>     Перемещение активного элемента: <%NextWidget>     Множественный выбор: <%MultiSelect>     Переключение рабочего окна: <%ChangeCtrlWindowForward>'
+Worldmap:
+  Personal_Guide_Window_Main_Memo: Заметка (мин. $(0) символов)
+  Personal_Guide_Window_Main_Button1: 'Разместить: $(0)'
+  Personal_Guide_Window_Main_Button2: 'Убрать: $(0)'
+  Window_FasttravelTerminal_8: Выбор комнаты
+  Window_FasttravelTerminal_9_1: Пароль комнаты
+  Fast_Travel_Level_Rank: '[Ранг. $(0)]'
+  Window_ControlGuide: 'Информация о секторе: <%NextWidget>     Поставить метку: <%Function>     Масштаб: <%Exception>     Переключение отображение имен: <%TabForward>     Переключение отображения навигатора игры: <%TabBack>'
+  Personal_Guide_Window_ControlGuide: 'Принять: <%Decide>     Отменить: <%Cancel>     Перемещение активного элемента: <%NextWidget>     Переключение окна: <%TabBack><%TabForward>'
+

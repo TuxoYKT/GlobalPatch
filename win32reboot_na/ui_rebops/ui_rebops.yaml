@@ -1,0 +1,5 @@
+MainMenu:
+  RemainingDays: Осталось $(0) день(ня/ней)
+  RemainingHour: Осталось около $(0) часа(ов)
+  RemainingMinutes: Осталось около $(0) минут(ы)
+  Task_Requester: Заказчик
