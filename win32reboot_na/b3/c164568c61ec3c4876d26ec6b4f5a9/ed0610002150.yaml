@@ -1,3 +1,5 @@
 Required:
   Title: 'Завершить Исследование Люсиэль'
-  Summary: 'Выполните квест Исследование Люсиэль ""Halpha Environmental Testing Zone Survey"" получив ранг B или выше.'
+  Summary: 'Выполните квест Исследование Люсиэль<br>"Halpha Environmental Testing Zone Survey"<br>получив ранг B или выше.'
+SubObjectives:
+  text0101: Завершите квест, выполнив указанные условия.

@@ -1,0 +1,3 @@
+ItemCommon:
+  MenuSendWarehouseAdditionGlobal: Отправить в хранилище Mission Pass ($(1)/$(0))
+  MenuMoveWarehouseAdditionGlobal: <pict wh_global_icon>Отправить в хранилище Mission Pass ($(1)/$(0))
