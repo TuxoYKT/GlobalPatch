@@ -25,6 +25,7 @@ PartyMenu:
   PartyConfigLabel22: <pict party_request>Открытая группа
 TargetInfo:
   TargetInfo_WeakPoint: 'Уязвимость:'
+  TargetInfo_Level: Ур.$(0)
   TargetInfo_Resist: 'Сопротивление:'
 PlayerDeadMenu:
   Retry: Повторить квест
